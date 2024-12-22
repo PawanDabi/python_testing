@@ -1,0 +1,14 @@
+>>> from file_testing import student_info
+>>> student_info("sohan","verma",123121,"pcm","svnhss")
+your name: sohan
+last name: verma
+your id: 123121
+your branch: pcm
+school name: svnhss
+
+>>> student_info("abhishek","joshi",123122,"pcm","gvmhss")
+your name: abhishek
+last name: joshi
+your id: 123122
+your branch: pcm
+school name: gvmhss
